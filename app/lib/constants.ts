@@ -5,11 +5,11 @@ export const RELAYS = [
   "wss://relay.nostr.info",
   "wss://relay.snort.social",
   "wss://offchain.pub/",
-  // "wss://nostr.nostrelay.org",
-  // "wss://relay.nostr.ch",
-  // "wss://nostr.onsats.org",
-  // "wss://nostr-relay.wlvs.space",
-  // "wss://nostr.zebedee.cloud",
+  "wss://nostr.nostrelay.org",
+  "wss://relay.nostr.ch",
+  "wss://nostr.onsats.org",
+  "wss://nostr-relay.wlvs.space",
+  "wss://nostr.zebedee.cloud",
 ];
 
 export const HOST = "https://blogstack.io";
